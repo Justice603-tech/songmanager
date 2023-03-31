@@ -1,0 +1,14 @@
+{
+  "name": "songmanager",
+  "version": "1.0.0",
+  "description": "A Song Manager package. not much",
+  "main": "songmanager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justice",
+  "license": "ISC",
+  "dependencies": {
+    "play-sound": "^1.1.5"
+  }
+}
